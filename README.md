@@ -10,14 +10,16 @@ In the near future, I intend to add:
 
 # Contributions
 
-Contribution/collaboration to existing (or new) projects on the website are welcome. 
+Contribution/collaboration to existing (or new) projects listed on the website are welcome. However, any contributions to the website itself will not be accepted.
 
 Contact me via email at sachin.shivakumar@asu.edu.
 
 
 # Acknowledgements
 
-The repository is based off a Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+The repository is a fork of the repository 'academicpages' which has been now repurposed to serve as my personal website. 'Academicpages' repository was originally forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+
+
 
 
 See more info at https://academicpages.github.io/
