@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is a personal website based on the fork of academicpages.github.io"
+title: "Alea Iacta Est"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
