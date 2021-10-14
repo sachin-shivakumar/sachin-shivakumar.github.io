@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sachin Shivakumar"
   avatar           : "main-page-photo.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "https://goo.gl/maps/78CNL5Mq2wJJmMXN9"
+  bio              : "I am PhD candidate with varied set of interests, such as, Applied Mathematics, Control Theory, Classical Music, Chess, Judo, etc."
+  location         : # "https://goo.gl/maps/78CNL5Mq2wJJmMXN9"
   employer         : "Arizona State University"
   pubmed           : # "Insert Pubmed profile here"
   googlescholar    : "https://scholar.google.com/citations?user=hnPOWoMAAAAJ&hl=en&oi=ao"
