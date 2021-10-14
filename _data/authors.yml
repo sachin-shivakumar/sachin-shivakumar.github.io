@@ -1,18 +1,11 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  name        : "Sachin Shivakumar"
+  uri         : "http://sachin-shivakumar.github.io"
+  email       : "sachin.shivakumar@asu.edu"
+  bio         : "I am a PhD candidate currently enrolled in Arizona State University, Tempe. I like all things math and like my coffee black."
+  avatar      : "images/main-page-photo.jpg"
+  twitter     : #"name"
+  google_plus : #"Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
