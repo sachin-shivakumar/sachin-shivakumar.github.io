@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Sachin Shivakumar"
-  avatar           : "profile.png"
+  avatar           : "main-page-photo.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : # "Location"
+  location         : "https://goo.gl/maps/78CNL5Mq2wJJmMXN9"
   employer         : "Arizona State University"
-  pubmed           : ""
+  pubmed           : # "Insert Pubmed profile here"
   googlescholar    : "https://scholar.google.com/citations?user=hnPOWoMAAAAJ&hl=en&oi=ao"
   email            : "sachin.shivakumar@asu.edu"
   researchgate     : "https://www.researchgate.net/profile/Sachin-Shivakumar"
