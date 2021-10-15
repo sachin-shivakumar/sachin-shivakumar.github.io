@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/shivakumar_acc2019_computing
 excerpt: ''
 date: 2019-07-12
-venue: 'Journal 1'
+venue: '2019 American Control Conference (ACC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8814336'
 citation: 'S. Shivakumar and M. M. Peet, "Computing Input-Ouput Properties of Coupled Linear PDE systems," 2019 American Control Conference (ACC), 2019, pp. 606-613, doi: 10.23919/ACC.2019.8814336.'
 ---
