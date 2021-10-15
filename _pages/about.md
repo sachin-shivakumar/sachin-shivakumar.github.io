@@ -10,9 +10,8 @@ redirect_from:
 
 
 
-Everything that will happen is influenced by everything that has happened
-======
+> Everything that will happen is influenced by everything that has happened.
 
-Getting started
-======
+
+
 
