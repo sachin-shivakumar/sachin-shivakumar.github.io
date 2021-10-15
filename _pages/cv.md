@@ -17,25 +17,33 @@ Education
 
 Work experience
 ======
-* MAE Tutor, FSE tutoring center, ASU, Jan. 2017 - Jan. 2018
+* MAE Tutor
+  * *FSE tutoring center, ASU*, January 2017 - January 2018
 Tutored students in the fresher, sophomore and junior courses of physics, mathematics and mechanical engineering under
 ASUs student welfare program.
-* Computer Lab Assistant, SoMSS, ASU, May 2017 - Jul. 2017
+
+* Computer Lab Assistant, 
+  * *SoMSS, ASU,* May 2017 - July 2017
 Worked on setting up and maintaining Linux systems at the lab. Tutored students on using Matlab and Linux systems
 for courses in Applied Linear Algebra and Differential Equations.
-* MAE Teaching Aide, SEMTE, ASU, Jan. 2017 - May 2017
+
+* MAE Teaching Aide, 
+  * *SEMTE, ASU,* January 2017 - May 2017
 Lead recitation classes/tutoring sessions for the course on numerical methods in engineering for sophomores/juniors.
+
 * Graduate Research Assistant Tempe, AZ
--Cybernetic Systems and Controls Lab, ASU Jan. 2018 - Present
+  * *Cybernetic Systems and Controls Lab, ASU,* January 2018 - Present
 - Research Focus: Analysis and control of Innite-dimensional systems
+
 * Senior Engineer Bengaluru, India
-- Robert Bosch Engineering and Business Solutions pvt. ltd. Jul. 2015-Jul. 2016
-- Machine Learning Techniques in process control: Optimized manufacturing processes in Bosch manufacturing units
+  * *Robert Bosch Engineering and Business Solutions pvt. ltd.* July 2015-July 2016
+ Machine Learning Techniques in process control: Optimized manufacturing processes in Bosch manufacturing units
 using machine learning for process control. Developed backend data mining/prediction algorithms. Worked on projects
 involving signal processing, image processing, data pre-processing and prediction.
+
 * Accident Investigation Trainee Bengaluru, India
-- Magma HDI General Insurance Company Ltd. Summer 2014
-- Operation cost reduction: Worked on root-cause analysis of automobile accidents/breakdown to verify legitimacy of
+  * *Magma HDI General Insurance Company Ltd., Bengaluru,* Summer 2014
+  Operation cost reduction: Worked on root-cause analysis of automobile accidents/breakdown to verify legitimacy of
 claims. Proposed and tested, on small sample size, repair methods which could potentially reduce insurance claim costs for
 both the company and customers by 10%.
   
