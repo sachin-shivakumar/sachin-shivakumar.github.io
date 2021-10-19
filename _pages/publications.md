@@ -13,5 +13,5 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-  {% <hr style="width:50%;text-align:left;margin-left:0"> %}
+  <hr style="width:50%;text-align:left;margin-left:0">
 {% endfor %}
