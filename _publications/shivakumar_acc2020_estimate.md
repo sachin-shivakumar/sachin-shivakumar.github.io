@@ -1,9 +1,9 @@
 ---
-title: "H∞-optimal estimation in the PIE framework for systems with multiple delays and sensor noise"
+title: "ℋ∞-optimal estimation in the PIE framework for systems with multiple delays and sensor noise"
 collection: publications
 permalink: /publication/shivakumar_acc2020_general
 excerpt: ''
-date: 2020-7-3
+date: 2020-07-03
 venue: '2020 IEEE American Control Conference (ACC)'
 paperurl: 'http://control.asu.edu/Publications/2020/Wu_ACC_2020.pdf'
 citation: 'Wu, S., Peet, M., Shivakumar, S., & Hua, C. (2020). H∞-optimal estimation in the PIE framework for systems with multiple delays and sensor noise. In Proceedings of the American Control Conference.'
