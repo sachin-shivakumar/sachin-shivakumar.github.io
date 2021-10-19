@@ -49,6 +49,21 @@ both the company and customers by 10%.
   
 Skills
 ======
+* **Programming Languages:**
+  * MATLAB
+  * Python
+  * C++
+  * Fortran
+* **Languages (can read, write, and speak in):**
+  * English
+  * Kannada
+  * Hindi
+* **Miscellaneous Hobbies:**
+  * Violin (classical music)
+  * Boxing 
+  * Judo
+  * Chess
+  * Tennis
 
 
 Publications
@@ -57,7 +72,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -72,3 +87,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
