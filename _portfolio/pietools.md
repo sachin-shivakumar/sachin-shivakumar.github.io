@@ -1,6 +1,6 @@
 ---
 title: "PIETOOLS"
-excerpt: "PIETOOLS is a free MATLAB toolbox for manipulating Partial Integral (PI) operators and solving Linear PI Inequalities (LPIs) which are convex optimization problems involving PI variables and PI constraints. <br/><img src='/images/pietools_logo.png'>"
+excerpt: "PIETOOLS is a free MATLAB toolbox for manipulating Partial Integral (PI) operators and solving Linear PI Inequalities (LPIs) which are convex optimization problems involving PI variables and PI constraints. <br/><img src='/images/pietools_logo.png' width='500' height='600'>"
 collection: portfolio
 ---
 
