@@ -5,13 +5,14 @@ collection: portfolio
 ---
 
 PIETOOLS can be used to:
+* define 3-PI or 4-PI operators
+* declare 3-PI or 4-PI operators variables (postive semidefinite or indefinite)
+* add operator inequality constraints
+* solve LPI optimization problems
 
-define 3-PI or 4-PI operators
-declare 3-PI or 4-PI operators variables (postive semidefinite or indefinite)
-add operator inequality constraints
-solve LPI optimization problems
-The interface is inspired by YALMIP and the program structure is based on that used by SOSTOOLS. By default the LPIs are solved using SeDuMi, however, the toolbox also supports use of other SDP solvers such as Mosek, sdpt3 and sdpnal.
+The interface is inspired by YALMIP while the optimization problem structure is based on SOSTOOLS. By default, the LPIs are solved using SeDuMi, however, the toolbox also supports use of other SDP solvers such as Mosek, sdpt3 and sdpnal.
 
-For more information on installation and use refer to the files in PIETOOLS/PIETOOLS_examples/ folder path.
+For more information on installation, visit one of the links listed below.
 
-## GitHub : <a href="https://github.com/CyberneticSCL/PIETOOLS "> Click Here</a> 
+* <a href="https://github.com/CyberneticSCL/PIETOOLS "> Github repository</a> 
+* <a href="https://pietools.asu.edu"> CSCL website</a>
