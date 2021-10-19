@@ -8,4 +8,3 @@ SOSTOOLS is a free MATLAB toolbox for formulating and solving sums of squares (S
 For more information on installation, visit one of the links listed below.
 
 *<a href="https://github.com/oxfordcontrol/SOSTOOLS "> Github repository</a> 
-
