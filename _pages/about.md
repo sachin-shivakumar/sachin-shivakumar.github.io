@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-> Everything that will happen is influenced by everything that has happened.
+> Future is influenced by the past and controlled in the present.
 
 
 
