@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-12-13
 venue: '2019 IEEE Conference on Decision and Control (CDC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9030224'
-citation: 'S. Shivakumar, A. Das, S. Weiland and M. M. Peet, "A Generalized LMI Formulation for Input-Output Analysis of Linear Systems of ODEs Coupled with PDEs," 2019 IEEE 58th Conference on Decision and Control (CDC), 2019, pp. 280-285, doi: 10.1109/CDC40024.2019.9030224.'
+citation: 'S. Shivakumar, A. Das, S. Weiland and M. Peet, "A Generalized LMI Formulation for Input-Output Analysis of Linear Systems of ODEs Coupled with PDEs," 2019 IEEE 58th Conference on Decision and Control (CDC), 2019, pp. 280-285, doi: 10.1109/CDC40024.2019.9030224.'
 ---
 
 

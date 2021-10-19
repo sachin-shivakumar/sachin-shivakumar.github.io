@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-08-23
 venue: 'IFAC-PapersOnLine'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S240589631930343X'
-citation: 'Matthew M. Peet, Sachin Shivakumar, Amritam Das, Seip Weiland, Discussion Paper: A New Mathematical Framework for Representation and Analysis of Coupled PDEs, IFAC-PapersOnLine, Volume 52, Issue 2, 2019, Pages 132-137, ISSN 2405-8963, https://doi.org/10.1016/j.ifacol.2019.08.023.'
+citation: 'M. Peet, S. Shivakumar, A. Das, S. Weiland, Discussion Paper: A New Mathematical Framework for Representation and Analysis of Coupled PDEs, IFAC-PapersOnLine, Volume 52, Issue 2, 2019, Pages 132-137, ISSN 2405-8963, https://doi.org/10.1016/j.ifacol.2019.08.023.'
 ---
 
 # Abstract:

@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-12-13
 venue: '2019 IEEE 58th Conference on Decision and Control (CDC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9029595'
-citation: 'A. Das, S. Shivakumar, S. Weiland and M. M. Peet, "ℋ∞ Optimal Estimation for Linear Coupled PDE Systems," 2019 IEEE 58th Conference on Decision and Control (CDC), 2019, pp. 262-267, doi: 10.1109/CDC40024.2019.9029595.'
+citation: 'A. Das, S. Shivakumar, S. Weiland and M. Peet, "ℋ∞ Optimal Estimation for Linear Coupled PDE Systems," 2019 IEEE 58th Conference on Decision and Control (CDC), 2019, pp. 262-267, doi: 10.1109/CDC40024.2019.9029595.'
 ---
 
 # Abstract:

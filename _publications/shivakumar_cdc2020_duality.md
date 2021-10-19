@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-12-18
 venue: '2020 59th IEEE Conference on Decision and Control (CDC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9303989'
-citation: 'S. Shivakumar, A. Das, S. Weiland and M. M. Peet, "Duality and H∞-Optimal Control Of Coupled ODE-PDE Systems," 2020 59th IEEE Conference on Decision and Control (CDC), 2020, pp. 5689-5696, doi: 10.1109/CDC42340.2020.9303989.'
+citation: 'S. Shivakumar, A. Das, S. Weiland and M. Peet, "Duality and H∞-Optimal Control Of Coupled ODE-PDE Systems," 2020 59th IEEE Conference on Decision and Control (CDC), 2020, pp. 5689-5696, doi: 10.1109/CDC42340.2020.9303989.'
 ---
 
 

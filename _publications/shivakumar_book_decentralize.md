@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-11-07
 venue: 'Bioinspired Sensing, Actuation, and Control in Underwater Soft Robotic Systems'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-50476-2_12'
-citation: 'Shivakumar S. et al. (2021) Decentralized Estimation and Control of a Soft Robotic Arm. In: Paley D.A., Wereley N.M. (eds) Bioinspired Sensing, Actuation, and Control in Underwater Soft Robotic Systems. Springer, Cham. https://doi.org/10.1007/978-3-030-50476-2_12'
+citation: 'S. Shivakumar et al. (2021) Decentralized Estimation and Control of a Soft Robotic Arm. In: D.A. Paley, N.M. Wereley (eds) Bioinspired Sensing, Actuation, and Control in Underwater Soft Robotic Systems. Springer, Cham. https://doi.org/10.1007/978-3-030-50476-2_12'
 ---
 
 
