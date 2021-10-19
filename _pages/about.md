@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-> Future is influenced by the past and controlled in the present.
+> Future is influenced by the past and the present.
 
 
 
