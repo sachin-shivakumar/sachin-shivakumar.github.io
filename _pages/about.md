@@ -24,7 +24,7 @@ While computing devices have grown more energy-efficient, time-efficient, and co
 
 > A computer that learns and uses the information given to it to make some change.
 
-Rather than making a list of things a computer cannot do, I want to state the things I wish a computer could do. Then we can figure out a way to build such a computer --- *maybe*. In simple words, I want a computing machine that can **observe its surroundings** (data fed through sensors) and **learn something from its observations** (build a mathematical model) and **demonstrate its knowledge** (manipulate the surroundings to get a desired result).
+Rather than making a list of things a computer cannot do, I want to state the things I wish a computer could do. Then we can figure out a way to build such a computer --- *maybe*. In simple words, I want a computing machine that can **observe its surroundings** (data fed through sensors), **learn something from its observations** (build a mathematical model) and **demonstrate its knowledge** (manipulate the surroundings to get a desired result).
 
 > ***Lets talk math***
 
@@ -34,9 +34,9 @@ Now that we have *vague* goals, let us try to translate those goals into solvabl
   1. a set of actions taken (input, $$u$$) 
   2. result of those actions (output, $$y$$)
 * *learning from observations*: Now that we have two signals $$u$$ and $$y$$, we ask the computer to learn from this information. The most straightforward aspect to learn is to find a way to predict the result of an action $$y$$, given an action $$u$$. Thus, to learn from surroundings, we will build a mathematical model $$\mathbf{G}$$ such that, for any pair $$(u,y)$$, we have
-` 
+``` 
 $$y = \mathbf{G}(u)$$.
-`
+```
 * *Demonstrate the learnt knowledge*: While there are more than one ways to demonstrate a learnt model, we will focus on the utilizing the knowledge to obtain a desired outcome, i.e., given the model $$\mathbf{G}$$, we wish to find some inputs $$u$$ that give us the desired outputs $$y$$.
 
 
