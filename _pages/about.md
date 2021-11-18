@@ -18,7 +18,7 @@ The point I wish to make is "The **idea** of a computer system --- an object tha
 
 > They do not have any independent thoughts or opinions.
 
-Before moving on to the details about my research interests (Click [Research Statement](https://sachin-shivakumar.github.io/publications/), if you want to skip), let us briefly discuss the principle behind a computer. While there are various instruments that can be classified as a **computer**, let us take a specific example for illustration --- the *Analytical engine* invented by Charles Babbage in the 19th century. The idea behind this system was simple but useful. Use a punch card to tell the sequence of arithmetic operations (addition/multiplication) to perform and the engine does it. However, without this *punch card*, analytical engine cannot perform any action (except converting electricity into heat --- not very helpful). This seems like a good place to introduce computing devices (or computer systems) --- systems that take certain input and perform a predefined set of computations without any further user intervention to produce some output. 
+Before moving on to the details about my work (if you want to skip, scroll to the last paragraph or click [Research Statement](https://sachin-shivakumar.github.io/publications/)), let us briefly discuss the principle behind a computer. While there are various instruments that can be classified as a **computer**, let us take a specific example for illustration --- the *Analytical engine* invented by Charles Babbage in the 19th century. The idea behind this system was simple but useful. Use a punch card to tell the sequence of arithmetic operations (addition/multiplication) to perform and the engine does it. However, without this *punch card*, analytical engine cannot perform any action (except converting electricity into heat --- not very helpful). This seems like a good place to introduce computing devices (or computer systems) --- systems that take certain input and perform a predefined set of computations without any further user intervention to produce some output. 
 
 > Any phenomena can be represented using this framework
 
@@ -42,7 +42,9 @@ As we saw in various illustrations above, computer systems take inputs and give 
 
 > The applications of control theory are boundless, however, to walk we need to take one step at a time 
 
-Although the above framework can fit any phenomena of interest, **currently**, my focus is on a particular class of problems which is the class of Ordinary Differential Equations (ODEs) and Partial Differential Equations (PDEs). In particular, I am developing computational tools that employ convex optimization methods to model, analyze, and control various phenomena modelled as ODEs or PDEs. 
+Although the above framework can fit any phenomena of interest, **currently**, my focus is on a particular class of problems which is the class of Ordinary Differential Equations (ODEs) and Partial Differential Equations (PDEs). In particular, I am developing computational tools that employ convex optimization methods to model, analyze, and control various phenomena modelled as ODEs or PDEs.
+
+For more details on my research and contributions, check : [publications page](https://sachin-shivakumar.github.io/publications/), [MATLAB toolboxes](https://sachin-shivakumar.github.io/portfolio/), [CV](https://sachin-shivakumar.github.io/cv/), and [Blog](https://sachin-shivakumar.github.io/control-freaks/).
 
 
 
