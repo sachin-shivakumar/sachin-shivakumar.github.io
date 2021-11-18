@@ -40,9 +40,7 @@ As we saw in various illustrations above, computer systems take inputs and give 
 
 > The applications of control theory are boundless, however, we can take only one step at a time to walk
 
-Although the above framework can fit any phenomena of interest, my focus is on a particular class of problems which is the class of Ordinary Differential Equations (ODEs) and Partial Differential Equations (PDEs). In particular, I work on developing computational methods that can be used to model, analyze, and control various phenomena modelled as ODEs or PDEs. 
-
->> In recent years, I have been using the control theory framework and its principles to tackle mathematical problems around control and analysis of dynamical systems governed by PDEs. More specifically, I am trying to **Build a general purpose theorectical/computational framework that can be used to analyze and control PDEs**.  
+Although the above framework can fit any phenomena of interest, my focus is on a particular class of problems which is the class of Ordinary Differential Equations (ODEs) and Partial Differential Equations (PDEs). In particular, I work on developing computational methods that employ convex optimization methods to model, analyze, and control various phenomena modelled as ODEs or PDEs. 
 
 
 
