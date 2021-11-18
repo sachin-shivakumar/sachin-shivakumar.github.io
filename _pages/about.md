@@ -26,12 +26,16 @@ While computing devices have grown more energy-efficient, time-efficient, and co
 
 Rather than making a list of things a computer cannot do, I want to state the things I wish a computer could do. Then we can figure out a way to build such a computer --- *maybe*. In simple words, I want a computing machine that can **observe its surroundings** (data fed through sensors) and **learn something from its observations** (build a mathematical model) and **demonstrate its knowledge** (manipulate the surroundings to get a desired result).
 
-> Lets talk math
+> ***Lets talk math***
 
 Now that we have *vague* goals, let us try to translate those goals into solvable mathematical problems. 
 
-* First, *observation of surroundings* is a simple enough task which can be done by various means, such as, electrical sensors, visual sensors, thermal sensors, etc.,--- all sensors that convert information into electrical signals. However, the term information is broad, unclear, and contains unnecessary details (which can be noise). Therefore, we classify the information further into two specific categories that will the computer in parsing the information in a meaningful manner. Namely, we split the information into a set of actions taken (input, $$u$$) and result of those actions (output, $$y$$).
+* *observation of surroundings*: This is a simple enough task which can be done by various means, such as, electrical sensors, visual sensors, thermal sensors, etc.,--- all sensors that convert information into electrical signals. However, the term information is broad, unclear, and contains unnecessary details (which can be noise). Therefore, we classify the information further into two specific categories that will the computer in parsing the information in a meaningful manner. Namely, we split the information as ---
+  1) a set of actions taken (input, $$u$$) 
+  2) result of those actions (output, $$y$$)
 
+* *learning from observations*: Now that we have two signals $$u$$ and $$y$$, we ask the computer to learn from this information. The most straightforward aspect to learn is to find a way to predict the result of an action $$y$$, given an action $$u$$. Thus, to learn from surroundings, we will build a mathematical model $$\mathbb{G}$$ such that, for any pair $$(u,y)$$, we have
+$$y = \mathbb{G}(u)$$.
 
 
 
