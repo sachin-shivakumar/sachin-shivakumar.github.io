@@ -31,11 +31,15 @@ Rather than making a list of things a computer cannot do, I want to state the th
 Now that we have *vague* goals, let us try to translate those goals into solvable mathematical problems. 
 
 * *observation of surroundings*: This is a simple enough task which can be done by various means, such as, electrical sensors, visual sensors, thermal sensors, etc.,--- all sensors that convert information into electrical signals. However, the term information is broad, unclear, and contains unnecessary details (which can be noise). Therefore, we classify the information further into two specific categories that will the computer in parsing the information in a meaningful manner. Namely, we split the information as ---
-  1) a set of actions taken (input, $$u$$) 
-  2) result of those actions (output, $$y$$)
+
+  1. a set of actions taken (input, $$u$$) 
+  2. result of those actions (output, $$y$$)
 
 * *learning from observations*: Now that we have two signals $$u$$ and $$y$$, we ask the computer to learn from this information. The most straightforward aspect to learn is to find a way to predict the result of an action $$y$$, given an action $$u$$. Thus, to learn from surroundings, we will build a mathematical model $$\mathbb{G}$$ such that, for any pair $$(u,y)$$, we have
+
+` 
 $$y = \mathbb{G}(u)$$.
+`
 
 
 
