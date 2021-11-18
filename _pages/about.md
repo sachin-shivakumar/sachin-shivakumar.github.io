@@ -10,9 +10,9 @@ redirect_from:
 
 
 
-## Computer systems are the smartest and the dumbest invention ever made by humans
+# Computer systems are the smartest and the dumbest invention ever made by humans
 
-At first glance, the above statement sounds self-contradictory (or vague, at the very least) and, hence, requires more explanation. The **idea** of a computer system (an object that does computations) is **smart**, but the *computer system* itself is *dumb* by human standards; Computers only do what you ask from it --- nothing more, nothing less. Computers cannot perform any computation without explicit instructions. 
+Although the above statements sounds "catchy", it is clearly self-contradictory (or vague, at the very least) and, hence, requires more explanation to avoid multiple interpretations. The **idea** of a computer system (an object that does computations) is **smart**, but the *computer system* itself is *dumb* by human standards; Computers only do what you ask from it --- nothing more, nothing less. Computers cannot perform any computation without explicit instructions. 
 
 > They do not have any independent thoughts or opinions.
 
