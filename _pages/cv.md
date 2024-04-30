@@ -11,41 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Mechanical Engineering, Indian Institute of Technology - Kharagpur, 2015
-* M.S. in Mechanical Engineering, Arizona State University, 2018
-* Ph.D in Control Theory, Arizona State University, 2022 (expected)
+* B.Tech. in Mechanical Engineering (2015), *Indian Institute of Technology, Kharagpur*
+* M.S. in Mechanical Engineering (2018), *Arizona State University*
+* Ph.D in Mechanical Engineering (2024), *Arizona State University*
+  - Thesis Title: Analysis, Estimation, and Control of Partial Differential Equations Using Partial Integral Equation Representation
+  - Advisor: Matthew Peet
+  - Research Group: Cybernetics Systems and Controls Laboratory
 
 Work experience
 ======
-* MAE Tutor, *FSE tutoring center, ASU, Tempe, Az,* January 2017 - January 2018
-
+* MAE Tutor (Jan 2017 - Jan 2018), *FSE tutoring center, Arizona State University* 
   Tutored students in the fresher, sophomore and junior courses of physics, mathematics and mechanical engineering under
 ASUs student welfare program.
 
-* Computer Lab Teaching Assistant, *SoMSS, ASU, Tempe, Az,* May 2017 - July 2017
+* Computer Lab Teaching Assistant (May 2017 - Jul 2017), *School of Mathematical and Statistical Sciences, Arizona State University* 
+  Worked on setting up and maintaining Linux systems at the lab. Tutored students on using Matlab and Linux systems for courses in Applied Linear Algebra and Differential Equations.
 
-  Worked on setting up and maintaining Linux systems at the lab. Tutored students on using Matlab and Linux systems
-for courses in Applied Linear Algebra and Differential Equations.
-
-* MAE Teaching Aide, *SEMTE, ASU,* January 2017 - May 2017
-
+* MAE Teaching Aide (Jan 2017 - May 2017), *School for Engineering of Matter, Transport & Energy, Arizona State University* 
   Lead recitation classes/tutoring sessions for the course on numerical methods in engineering for sophomores/juniors.
 
-* Graduate Research Assistant, *Cybernetic Systems and Controls Lab, ASU, Tempe, Az,* January 2018 - Present
-
+* Graduate Research Assistant (Jan 2018 - May 2024), *Cybernetic Systems and Controls Lab, Arizona State University* 
   Research Focus: Analysis and control of infinite-dimensional systems
 
-* Senior Engineer, *Robert Bosch Engineering and Business Solutions pvt. ltd., Bengaluru, India* July 2015-July 2016
-
+* Senior Engineer (Jul 2015-Jul 2016), *Robert Bosch Engineering and Business Solutions pvt. ltd., Bengaluru, India* 
   Machine Learning Techniques in process control: Optimized manufacturing processes in Bosch manufacturing units
-using machine learning for process control. Developed backend data mining/prediction algorithms. Worked on projects
-involving signal processing, image processing, data pre-processing and prediction.
-
-* Accident Investigation Trainee, *Magma HDI General Insurance Company Ltd., Bengaluru, India* Summer 2014
-
-  Operation cost reduction: Worked on root-cause analysis of automobile accidents/breakdown to verify legitimacy of
-claims. Proposed and tested, on small sample size, repair methods which could potentially reduce insurance claim costs for
-both the company and customers by 10%.
+using machine learning for process control. Developed backend data mining/prediction algorithms. Worked on projects involving signal processing, image processing, data pre-processing and prediction.
   
 Skills
 ======
