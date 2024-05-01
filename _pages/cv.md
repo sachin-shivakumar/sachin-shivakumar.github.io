@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Curriculum Vitae: [pdf][/files/CV.pdf]
+### Curriculum Vitae: [pdf](/files/CV.pdf)
 
 Education
 ======
@@ -18,10 +18,11 @@ Education
 * Ph.D in Mechanical Engineering (2024), *Arizona State University*
   - Thesis Title: Analysis, Estimation, and Control of Partial Differential Equations Using Partial Integral Equation Representation
   - Thesis Advisor: Matthew Peet
+{: style="text-align: justify;"}
 
 Publication Summary
 =====
-I have 10 (being the first author for 5) conference papers, all published in the proceedings of IEEE CDC or ACC (listed as the number 1 and 2 top conferences in control theory based on h5-index). I also contributed a chapter as the first author for a book published by Springer on the state-of-the-art control of underwater soft robots. Lastly, I have two journal papers under review one in IEEE TAC and another in IEEE L-CSS. All publications are available for public access on [CSCL website][control.asu.edu] and a few key publications are listed below.
+I have 10 (being the first author for 5) conference papers, all published in the proceedings of IEEE CDC or ACC (listed as the number 1 and 2 top conferences in control theory based on h5-index). I also contributed a chapter as the first author for a book published by Springer on the state-of-the-art control of underwater soft robots. Lastly, I have two journal papers under review one in IEEE TAC and another in IEEE L-CSS. All publications are available for public access on [CSCL website](control.asu.edu) and a few key publications are listed below.
   - Shivakumar, S., Das, A.,& Peet, M. M. (2020, July). PIETOOLS: A MATLAB toolbox for manipulation and optimization of partial integral operators. In 2020 American Control Conference (ACC) (pp. 2667-2672). IEEE.
   - Shivakumar, S., Das, A., Weiland, S., & Peet, M. M. (2020, December). Duality and H<sub>∞\infty</sub>-optimal control of coupled ODE-PDE systems. In 2020 59th IEEE Conference on Decision and Control (CDC) (pp. 5689-5696). IEEE.
   - Shivakumar, S., Das, A., Weiland, S., & Peet, M. M. (2019, December). A generalized LMI formulation for input-output analysis of linear systems of ODEs coupled with PDEs. In 2019 IEEE 58th Conference on Decision and Control (CDC) (pp. 280-285). IEEE.
@@ -33,21 +34,28 @@ I have 10 (being the first author for 5) conference papers, all published in the
 Work experience
 ======
 * MAE Tutor (Jan 2017 - Jan 2018), *FSE tutoring center, Arizona State University* 
-  Tutored students in the fresher, sophomore and junior courses of physics, mathematics and mechanical engineering under
-ASUs student welfare program.
+  - Tutored students in the fresher, sophomore and junior courses of physics, mathematics and mechanical engineering under ASU student welfare program.
+{: style="text-align: justify;"}
 
 * Computer Lab Teaching Assistant (May 2017 - Jul 2017), *School of Mathematical and Statistical Sciences, Arizona State University* 
-  Worked on setting up and maintaining Linux systems at the lab. Tutored students on using Matlab and Linux systems for courses in Applied Linear Algebra and Differential Equations.
+  - Worked on setting up and maintaining Linux systems at the lab. Tutored students on using Matlab and Linux systems for courses in Applied Linear Algebra and Differential Equations.
+{: style="text-align: justify;"}
 
 * MAE Teaching Aide (Jan 2017 - May 2017), *School for Engineering of Matter, Transport & Energy, Arizona State University* 
-  Lead recitation classes/tutoring sessions for the course on numerical methods in engineering for sophomores/juniors.
+  - Lead recitation classes/tutoring sessions for the course on numerical methods in engineering for sophomores/juniors.
+{: style="text-align: justify;"}
 
 * Graduate Research Assistant (Jan 2018 - May 2024), *Cybernetic Systems and Controls Lab, Arizona State University* 
-  Research Focus: Analysis and control of infinite-dimensional systems
+  -Worked on solving fundamental problems in the Control of distributed parameter systems. Funded by NSF: CMMI-1935453, CNS-1739990. 
+  - Developed decentralized control actions for octopus-inspired soft-robotic arms. Funded by ONR: N00014-17-1-2117. 
+  - Solved the scalability issues, in terms of computation and memory complexity, of Sum-of-Squares programs by developing a new data structure for the representation of polynomial-valued decision variables in convex-optimization problems. Funded by NSF: CMMI-1931270, CMMI-1935453.
+{: style="text-align: justify;"}  
 
 * Senior Engineer (Jul 2015-Jul 2016), *Robert Bosch Engineering and Business Solutions pvt. ltd., Bengaluru, India* 
-  Machine Learning Techniques in process control: Optimized manufacturing processes in Bosch manufacturing units
-using machine learning for process control. Developed backend data mining/prediction algorithms. Worked on projects involving signal processing, image processing, data pre-processing and prediction.
+  - Optimized manufacturing processes as part of the Industry 4.0 Initiative within Bosch.
+  - Developed backend data mining/prediction algorithms.
+  - Devised control parameters for statistical process control and implemented a prediction-alert system to reduce field failure rates.
+{: style="text-align: justify;"}
   
 Skills
 ======
