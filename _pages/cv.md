@@ -9,14 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+### Curriculum Vitae: [pdf][/files/CV.pdf]
+
 Education
 ======
 * B.Tech. in Mechanical Engineering (2015), *Indian Institute of Technology, Kharagpur*
 * M.S. in Mechanical Engineering (2018), *Arizona State University*
 * Ph.D in Mechanical Engineering (2024), *Arizona State University*
   - Thesis Title: Analysis, Estimation, and Control of Partial Differential Equations Using Partial Integral Equation Representation
-  - Advisor: Matthew Peet
-  - Research Group: Cybernetics Systems and Controls Laboratory
+  - Thesis Advisor: Matthew Peet
+
+Publication Summary
+=====
+I have 10 (being the first author for 5) conference papers, all published in the proceedings of IEEE CDC or ACC (listed as the number 1 and 2 top conferences in control theory based on h5-index). I also contributed a chapter as the first author for a book published by Springer on the state-of-the-art control of underwater soft robots. Lastly, I have two journal papers under review one in IEEE TAC and another in IEEE L-CSS. All publications are available for public access on [CSCL website][control.asu.edu] and a few key publications are listed below.
+  - Shivakumar, S., Das, A.,& Peet, M. M. (2020, July). PIETOOLS: A MATLAB toolbox for manipulation and optimization of partial integral operators. In 2020 American Control Conference (ACC) (pp. 2667-2672). IEEE.
+  - Shivakumar, S., Das, A., Weiland, S., & Peet, M. M. (2020, December). Duality and H<sub>∞\infty</sub>-optimal control of coupled ODE-PDE systems. In 2020 59th IEEE Conference on Decision and Control (CDC) (pp. 5689-5696). IEEE.
+  - Shivakumar, S., Das, A., Weiland, S., & Peet, M. M. (2019, December). A generalized LMI formulation for input-output analysis of linear systems of ODEs coupled with PDEs. In 2019 IEEE 58th Conference on Decision and Control (CDC) (pp. 280-285). IEEE.
+  %- Doroudchi, A., Shivakumar, S., et al. (2018, December). Decentralized control of distributed actuation in a segmented soft robot arm. In 2018 IEEE Conference on Decision and Control (CDC) (pp. 7002-7009). IEEE.
+  - Jagt, D., Shivakumar, S., Seiler, P., & Peet, M. (2022). Efficient Data Structures for Representation of Polynomial Optimization Problems: Implementation in SOSTOOLS. IEEE Control Systems Letters, 6, 3493-3498.
+  - Shivakumar, S. et al. (2021). Decentralized Estimation and Control of a Soft Robotic Arm. In: Paley, D.A., Wereley, N.M. (eds) Bioinspired Sensing, Actuation, and Control in Underwater Soft Robotic Systems. Springer, Cham.
+{: style="text-align: justify;"}
 
 Work experience
 ======
@@ -56,11 +68,6 @@ Skills
   * Tennis
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 <!-- Talks
 ======
