@@ -1,5 +1,5 @@
 ---
-title: "Computing Input-Ouput Properties of Coupled Linear PDE systems"
+title: "Computing Input-Output Properties of Coupled Linear PDE systems"
 collection: publications
 permalink: /publication/shivakumar_acc2019_computing
 excerpt: ''
