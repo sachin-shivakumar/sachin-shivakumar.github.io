@@ -44,7 +44,7 @@ As we saw in various illustrations above, computer systems take inputs and give 
 
 Although the above framework can fit any phenomena of interest, **currently**, my focus is on a particular class of problems: the class of Ordinary Differential Equations (ODEs) and Partial Differential Equations (PDEs). In particular, I am developing computational tools that employ convex optimization methods to model, analyze, and control various phenomena modeled as ODEs or PDEs.
 
-For more details on my research and contributions, check : [publications page](https://sachin-shivakumar.github.io/publications/), [MATLAB toolboxes](https://sachin-shivakumar.github.io/portfolio/), [CV](https://sachin-shivakumar.github.io/cv/), and [Blog](https://sachin-shivakumar.github.io/control-freaks/).
+For more details on my research and contributions, check : [publications page](https://sachin-shivakumar.github.io/publications/), [MATLAB toolboxes](https://sachin-shivakumar.github.io/portfolio/), and [CV](https://sachin-shivakumar.github.io/cv/). 
 
 
 

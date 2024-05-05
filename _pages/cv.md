@@ -17,7 +17,7 @@ Education
 * M.S. in Mechanical Engineering (2018), *Arizona State University*
 * Ph.D in Mechanical Engineering (2024), *Arizona State University*
   - Thesis Title: Analysis, Estimation, and Control of Partial Differential Equations Using Partial Integral Equation Representation
-  - Thesis Advisor: Matthew Peet
+  - Thesis Advisor: Matthew Peet ([Website](control.asu.edu))
 {: style="text-align: justify;"}
 
 Publication Summary
@@ -30,6 +30,10 @@ I have 10 (being the first author for 5) conference papers, all published in the
   - Jagt, D., Shivakumar, S., Seiler, P., & Peet, M. (2022). Efficient Data Structures for Representation of Polynomial Optimization Problems: Implementation in SOSTOOLS. IEEE Control Systems Letters, 6, 3493-3498.
   - Shivakumar, S. et al. (2021). Decentralized Estimation and Control of a Soft Robotic Arm. In: Paley, D.A., Wereley, N.M. (eds) Bioinspired Sensing, Actuation, and Control in Underwater Soft Robotic Systems. Springer, Cham.
 {: style="text-align: justify;"}
+
+Awards and Recognition
+======
+* 2024: Outstanding Graduate Research Award, *School for Engineering of Matter, Transport, and Energy*, Arizona State University
 
 Work experience
 ======
