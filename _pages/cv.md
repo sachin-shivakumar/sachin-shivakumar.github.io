@@ -38,7 +38,7 @@ Awards and Recognition
 Work experience
 ======
 * MAE Tutor (Jan 2017 - Jan 2018), *FSE tutoring center, Arizona State University* 
-  - Tutored students in the fresher, sophomore and junior courses of physics, mathematics and mechanical engineering under ASU student welfare program.
+  - Tutored students in the freshman, sophomore and junior courses of physics, mathematics and mechanical engineering under ASU student welfare program.
 {: style="text-align: justify;"}
 
 * Computer Lab Teaching Assistant (May 2017 - Jul 2017), *School of Mathematical and Statistical Sciences, Arizona State University* 
