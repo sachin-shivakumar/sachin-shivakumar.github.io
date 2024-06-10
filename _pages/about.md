@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-# Under Construction: ![Work In Progress](/images/website-under-construction.jpeg)
+# Under Construction: ![Work In Progress](/images/website-under-construction.jpeg){:height="50%" width="50%"}
 
 For more details on my research and contributions, check : [publications page](https://sachin-shivakumar.github.io/publications/), [MATLAB toolboxes](https://sachin-shivakumar.github.io/portfolio/), and [CV](https://sachin-shivakumar.github.io/cv/). 
 
