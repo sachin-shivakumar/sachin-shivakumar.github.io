@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Work In Progress](/images/website-under-construction.jpeg){: height="250" width="250"}
+![Work In Progress](/images/website-under-construction.jpeg)
 
 For more details on my research and contributions, check : [publications page](https://sachin-shivakumar.github.io/publications/), [MATLAB toolboxes](https://sachin-shivakumar.github.io/portfolio/), and [CV](https://sachin-shivakumar.github.io/cv/). 
 
