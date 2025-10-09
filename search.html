@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Search — Sachin Shivakumar</title>
+  <meta name="description" content="Search the site for pages and posts.">
+  <link rel="canonical" href="https://sachin-shivakumar.github.io/search.html">
+  <link rel="preload" href="/assets/css/main.css" as="style">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <meta property="og:title" content="Search — Sachin Shivakumar">
+  <meta property="og:description" content="Search the site for pages and posts.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://sachin-shivakumar.github.io/search.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Search — Sachin Shivakumar">
+  <meta name="twitter:description" content="Search the site for pages and posts.">
+  <script defer data-domain="sachin-shivakumar.github.io" src="https://plausible.io/js/plausible.js"></script>
+  
+</head>
+<body>
+<header class="container" data-include="/partials/header.html"></header>
+<main class="container">
+
+<h1>Search</h1>
+<form id="search-form" role="search" action="/search.html">
+  <label for="q" class="sr-only">Search query</label>
+  <input id="q" name="q" type="search" placeholder="Type to search…" aria-label="Search">
+  <button class="btn" type="submit">Search</button>
+</form>
+<div id="results" class="search-results" aria-live="polite"></div>
+<script src="/assets/js/search.js"></script>
+
+</main>
+<footer class="container" data-include="/partials/footer.html"></footer>
+<script src="/assets/js/includes.js" defer></script>
+</body>
+</html>

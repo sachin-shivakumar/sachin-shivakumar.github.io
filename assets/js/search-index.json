@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Home",
+    "url": "/",
+    "snippet": "Control, Optimization & PDEs \u2014 research and tools.",
+    "content": "Control Optimization PDEs Los Alamos National Laboratory CNLS Iowa State University Arizona State University publications portfolio blog email"
+  },
+  {
+    "title": "About",
+    "url": "/about.html",
+    "snippet": "Postdoctoral Research Associate at CNLS, Los Alamos National Laboratory. Ph.D. ASU (2024).",
+    "content": "Postdoctoral Research Associate CNLS Los Alamos National Laboratory Iowa State University Aerospace Engineering PhD Mechanical Engineering Arizona State University"
+  },
+  {
+    "title": "CV",
+    "url": "/cv.html",
+    "snippet": "Download CV as PDF.",
+    "content": "Curriculum Vitae CV PDF"
+  },
+  {
+    "title": "Publications",
+    "url": "/publications.html",
+    "snippet": "Journals, conferences, preprints, thesis.",
+    "content": "TAC 2024 Extension of the Partial Integral Equation Representation to GPDE; L-CSS 2022 SOSTOOLS data structures; ACC 2023 PIE representation; IFAC 2022 delayed networks; CDC 2020 Duality and H-infinity ODE-PDE; ACC 2020 PIETOOLS; CDC 2020 Robust analysis; CDC 2019 Generalized LMI; CDC 2019 H-infinity estimation; IFAC 2019 framework; ACC 2019 Input-Output properties; 2018 Soft robot arm; Book chapter 2021; arXiv 2024-2025 preprints including H2-optimal estimator/controller and MTW regularity; Dissertation 2022."
+  },
+  {
+    "title": "Portfolio",
+    "url": "/portfolio.html",
+    "snippet": "PIETOOLS toolbox and Control Freaks blog.",
+    "content": "PIETOOLS MATLAB toolbox Linear PI Inequalities SOSTOOLS YALMIP SeDuMi MOSEK sdpt3 sdpnal"
+  },
+  {
+    "title": "Blog",
+    "url": "/blog/",
+    "snippet": "Posts on control, optimization, PDEs.",
+    "content": "blog notes infinite-dimensional systems optimal transport"
+  },
+  {
+    "title": "Hello, world",
+    "url": "/blog/posts/hello-world/",
+    "snippet": "Placeholder post.",
+    "content": "first post placeholder"
+  },
+  {
+    "title": "Search",
+    "url": "/search.html",
+    "snippet": "Search the site.",
+    "content": "search query results"
+  }
+]
